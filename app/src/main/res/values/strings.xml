@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Garderob</string>
+    <string name="add">Add something</string>
+    <string name="next_im">Next Image</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="done">Done</string>
+</resources>
